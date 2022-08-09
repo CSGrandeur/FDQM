@@ -1,6 +1,4 @@
-"""
-通过简单的特征提取网络获取特征向量
-"""
+# Feature Distribution Estimation for Feature Differency
 import torch
 
 

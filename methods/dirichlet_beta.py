@@ -1,3 +1,6 @@
+# Dirichlet concentration parameter Estimation for
+# Label Distribution Skew and Quantity Skew
+
 import numpy as np
 def get_beta(data_distribution):
     # data_distribution: an ndarry list of data ratio wich sum to 1

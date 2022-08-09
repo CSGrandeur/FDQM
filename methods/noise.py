@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding:utf-8 -*-
+# Image noise estimation for a type of Feature Distribution Skew
 # From https://github.com/zsyOAOA/noise_est_ICCV2015
 # Implement of noise level estimation of the following paper:
 # Chen G , Zhu F , Heng P A . An Efficient Statistical Method for Image Noise Level Estimation[C]// 2015 IEEE International Conference

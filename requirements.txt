@@ -1,0 +1,5 @@
+numpy==1.23.1
+scikit-image==0.19.3
+torch==1.12.1+cpu
+torchaudio==0.12.1+cpu
+torchvision==0.13.1+cpu
